@@ -16,7 +16,7 @@ namespace weidongLiPlanChecker
 {
     /// <summary>
     /// Interaction logic for App.xaml
-    /// </summary>
+    /// </summary>asdfj;lasfj;a
     public partial class App
     {
         private IEventAggregator _ea;
